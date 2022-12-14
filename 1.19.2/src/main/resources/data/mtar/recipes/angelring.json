@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WEW",
+    "IDI",
+    "WIW"
+  ],
+  "key": {
+    "D": {
+      "item": "mtar:itemdiamondring"
+    },
+    "E": {
+      "item": "minecraft:elytra"
+    },
+    "W": {
+      "item": "mtar:batwing"
+    },
+    "I": {
+      "item": "hybridlib:nether_ingot"
+    }
+  },
+  "result": {
+    "item": "mtar:itemring",
+    "count": 1
+  }
+}
