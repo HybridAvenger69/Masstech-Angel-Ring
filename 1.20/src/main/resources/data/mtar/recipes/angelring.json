@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " E ",
+    "IDI",
+    " I "
+  ],
+  "key": {
+    "D": {
+      "item": "mtar:itemdiamondring"
+    },
+    "E": {
+      "item": "minecraft:elytra"
+    },
+    "I": {
+      "item": "hybridlib:nether_ingot"
+    }
+  },
+  "result": {
+    "item": "mtar:itemring",
+    "count": 1
+  }
+}
